@@ -1,8 +1,10 @@
 # Personalized_Product_Recommendation_System
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Personalized Product Recommendation System
 Welcome to the Personalized Product Recommendation System project! This project aims to revolutionize the way users discover and engage with products by providing them with tailored recommendations that align with their preferences, behaviors, and past interactions. Whether you're an online retailer looking to enhance customer satisfaction or a developer interested in recommendation algorithms, this system offers an intuitive and customizable solution.
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Table of Contents
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Introduction
 Features
 Getting Started
@@ -17,10 +19,15 @@ Deployment
 Customization
 Contributing
 License
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Introduction
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 In today's fast-paced digital landscape, providing users with a personalized experience is key to driving engagement and increasing conversions. The Personalized Product Recommendation System offers a comprehensive solution to this challenge. By analyzing user data, preferences, and historical behavior, the system employs advanced recommendation algorithms to suggest products that are most likely to resonate with each individual user.
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
 Features
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
 User-Centric Recommendations: Tailors product recommendations to individual users based on their preferences, purchase history, and browsing behavior.
 
 Real-Time Updates: Keeps recommendations up-to-date by incorporating the latest user interactions and product additions.
@@ -33,7 +40,9 @@ Easy Integration: Seamlessly integrates with existing e-commerce platforms throu
 
 A/B Testing Support: Facilitates A/B testing of recommendation strategies to continually optimize performance.
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Getting Started
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Prerequisites
 Before you begin, make sure you have the following prerequisites:
 
